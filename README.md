@@ -24,4 +24,4 @@ snb-tech.sytes.net
 sudo systemctl start ddclient
 sudo systemctl enable ddclient
 
-# 5. http://snb-tech.sytes.net:9003/
+# 5. http://snb-tech.sytes.net:9001/  & http://snb-tech.sytes.net:9002/ & http://snb-tech.sytes.net:9003/
