@@ -26,6 +26,13 @@ sudo systemctl enable ddclient
 
 # 5. http://snb-tech.sytes.net:9001/  & http://snb-tech.sytes.net:9002/ & http://snb-tech.sytes.net:9003/
 
+# http://snb-tech.sytes.net:9001
 Username / Email: kx52m3r
 Password: AFwsKx4pmx3y
+DDNS Key Hostname: all.ddnskey.com
+
+
+# http://babafarooq.sytes.net:9001
+Username / Email: 2ea6yjm
+Password: Nmx1HLMu6a9n
 DDNS Key Hostname: all.ddnskey.com
