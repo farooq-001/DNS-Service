@@ -5,7 +5,7 @@ Dynu: https://www.dynu.com/
 DuckDNS: https://www.duckdns.org/
 
 # 2.Install ddclient on Your Linux Server:
-sudo apt-get update
+sudo apt-get update &&
 sudo apt-get install ddclient
 
 # 3.Configure ddclient:
