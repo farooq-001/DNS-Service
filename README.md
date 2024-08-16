@@ -1,13 +1,13 @@
 # DNS-Service
 
-# <<Method-1>>
+# Method-1
 ddclient.zip
 unzip ddclient.zip
 chmod +x setup.sh
 ./setup.sh
 systemctl status ddclient-update.service
 
-# <<Method-2>>
+# Method-2
 # 1.Set Up a Dynamic DNS Service:
 No-IP: https://www.noip.com/
 Dynu: https://www.dynu.com/
