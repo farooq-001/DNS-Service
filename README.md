@@ -40,6 +40,13 @@ Username / Email: kx52m3r
 Password: AFwsKx4pmx3y
 DDNS Key Hostname: all.ddnskey.com
 
+Username: 8d51d5f
+Password: PfDExgR1BaLj
+DDNS Key Hostname:: all.ddnskey.com
+
+
+
+
 
 # http://babafarooq.sytes.net:9001
 Username / Email: 2ea6yjm
